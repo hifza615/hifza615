@@ -35,12 +35,7 @@ I love building clean user interfaces and learning new technologies every day.
 ---
 
 ## 📂 **Pinned Projects**
-> *(When you upload projects, they will show here automatically)*  
 
----
-
-## 📞 **Contact**
-You can reach me directly through GitHub.
 
 ---
 
