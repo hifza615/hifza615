@@ -40,5 +40,5 @@ I love building clean user interfaces and learning new technologies every day.
 ---
 
 ### ⭐ *Thanks for visiting my profile!*  
-💫 Profile README test
+
 
