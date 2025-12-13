@@ -2,7 +2,7 @@ name: Auto Commit Activity
 
 on:
   schedule:
-    - cron: '0 23 * * *'   # Runs daily at 11:00 PM UTC (4 AM Pakistan)
+    - cron: '0 23 * * *'   # Daily
   workflow_dispatch:
 
 permissions:
@@ -13,18 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # VERY IMPORTANT
 
       - name: Update activity file
         run: |
           echo "Last activity: $(date)" >> activity.txt
 
-      - name: Commit changes
+      - name: Commit and push
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add activity.txt
-          git commit -m "Daily auto commit" || echo "No changes to commit"
-          git push
+          git commit -m "Daily auto commit" || exit 0
+          git pull origin main
+          git push origin main
           
