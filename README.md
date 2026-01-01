@@ -4,7 +4,7 @@
 ---
 
 ## 💡 About Me
-- 🎓 9th class student (Federal Board)
+- 🎓 9th class student 
 - 🌱 Currently learning **Web Development & Programming**
 - 💻 Interested in **Frontend + Backend**
 - ✨ Love learning new technologies and building things
