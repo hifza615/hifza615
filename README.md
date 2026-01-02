@@ -73,7 +73,7 @@ A student learning programming and web development.
 <br/>
 
 <div align="center"> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hifza615&theme=monokai)](https://github.com/hifza615)
+[trophy](https://github-profile-trophy.vercel.app/?username=hifza615&theme=monokai)](https://github.com/hifza615)
 
 </div>
 
