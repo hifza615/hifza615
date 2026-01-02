@@ -38,7 +38,7 @@ A student learning programming and web development.
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
-<h3>HTML | CSS | JavaScript (Basic) | Git | GitHub</h3>
+<h3>HTML | CSS | JavaScript  | Git | GitHub</h3>
 
 <br/>
 
@@ -50,7 +50,7 @@ A student learning programming and web development.
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb" />
 </p>
 
-<h3>Python (Basic) | Frontend | Backend</h3>
+<h3>Python| Frontend | Backend</h3>
 
 <br/>
 
