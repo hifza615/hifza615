@@ -73,7 +73,13 @@ A student learning programming and web development.
 <br/>
 
 <div align="center"> 
-[trophy](https://github-profile-trophy.vercel.app/?username=hifza615&theme=monokai)](https://github.com/hifza615)
+# Hi, I’m Hifza 👋
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hifza615&theme=monokai)](https://github.com/hifza615)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hifza615&show_icons=true&theme=monokai)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hifza615&theme=monokai)
+
 
 </div>
 
