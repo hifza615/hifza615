@@ -8,7 +8,7 @@ A student learning programming and web development.
 
 <br/>
 
-## 🌐 Socials:
+## 🌐 Socials: 
 
 <br/>
 
