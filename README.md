@@ -36,7 +36,7 @@ A student learning programming and web development.
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
-<h3>HTML | CSS | JavaScript  | Git | GitHub</h3>
+<h3>HTML | CSS | JavaScript   | Git | GitHub</h3>
 
 <br/>
 
