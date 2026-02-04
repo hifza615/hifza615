@@ -28,12 +28,10 @@ A student learning programming and web - development.
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=git,html,css,js,github" />
 <br>
-<img src="https://skillicons.dev/icons?i=,netlify,vercel,googlecloud,bootstrap,nextjs" />
+<img src="https://skillicons.dev/icons?i=,netlify,vercel,googlecloud,bootstrap," />
 <br>
-<img src="https://skillicons.dev/icons?i=,tailwind," />
+<img src="https://skillicons.dev/icons?i=,tailwind" />
 <br>
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" width="48" height="48" />
 <br>
 
 
