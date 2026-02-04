@@ -23,13 +23,19 @@ A student learning programming and web - development.
 
 ## 💻 Tech Stack:
                          
-<br/>
 
+<br/>
 <p align='center'>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,html,css,js,,github" />
+<br>
+<img src="https://skillicons.dev/icons?i=,netlify,vercel,googlecloud,bootstrap,nextjs" />
+<br>
+<img src="https://skillicons.dev/icons?i=,tailwind," />
+<br>
 
-<br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" width="48" height="48" />
+<br>
+
 
 ## 💡 I am currently learning
 
