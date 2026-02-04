@@ -30,7 +30,7 @@ A student learning programming and web - development.
 <br>
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 <br>
-<img src="https://skillicons.dev/icons?i=,netlify,vercel"width="48" height="48"  />
+<img src="https://skillicons.dev/icons?i=,netlify,vercel"  />
 
 
 
