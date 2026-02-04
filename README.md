@@ -15,6 +15,7 @@ A student learning programming and web - development.
 <div align="center">
 <a href="https://github.com/YOUR_USERNAME">
   <img align="center" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white" />
+         <a href="https://www.linkedin.com/in/hifza-emaan-17a6663a4"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 </a>
 </div>
 
