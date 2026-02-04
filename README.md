@@ -28,11 +28,11 @@ A student learning programming and web - development.
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=git,html,css,js,github" />
 <br>
-<img src="https://skillicons.dev/icons?i=,netlify,vercel,googlecloud,bootstrap," />
+<img src="https://skillicons.dev/icons?i=,netlify,vercel,googlecloud,bootstrap,tailwind" />
 <br>
-<img src="https://skillicons.dev/icons?i=,tailwind" />
-<br>
-<br>
+
+
+
 
 
 ## 💡 I am currently learning
