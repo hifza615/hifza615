@@ -38,10 +38,10 @@ A student learning programming and web - development.
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+<img src="https://skillicons.dev/icons?i=js" />
 </p>
 
-<h3>HTML | CSS | JavaScript   | Git | GitHub</h3>
+<h3> JavaScript  </h3>
 
 <br/>
 
