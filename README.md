@@ -28,9 +28,9 @@ A student learning programming and web - development.
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=git,html,css,js,github" />
 <br>
-<img src="https://skillicons.dev/icons?i=,netlify,vercel,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 <br>
-
+<img src="https://skillicons.dev/icons?i=,netlify,vercel"width="48" height="48"  />
 
 
 
