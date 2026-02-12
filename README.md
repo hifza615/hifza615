@@ -1,4 +1,4 @@
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=hifza615&label=Profile%20views&color=0e75b6&style=flat" alt="hifza615" /> </p>  
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=hifza615&label=Profile%20views&color=0e75b6&style=flat" alt="hifza615" /> </p>  
                                                                                                                    
                                                                                                                                                             
 <h1 align="center">Hi  👋, I'm  Hifza Emaan</h1>
@@ -7,7 +7,7 @@ A student learning programming and web - development.
 </h3>
     
 <br/>  
-
+ 
 ## 🌐 Socials: 
 
 <br/>
