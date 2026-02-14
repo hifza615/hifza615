@@ -32,7 +32,7 @@ A student learning programming and web - development.
 <img src="https://skillicons.dev/icons?i=netlify,vercel"  />
 
 
-
+   
 
 ## 💡 I am currently learning
 
