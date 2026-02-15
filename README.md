@@ -7,13 +7,19 @@ A student learning programming and web - development.
 </h3>
 <br/>  
 
-## 💀 A Random Thing About Me😆😁 
+##  A Random Thing About Me😆😁 
 <h3 align="center">
 A Biology student with zero intrest in biology 🤫 because full mind is  in computer🤖   
 </h3>
     
  <br/>
- 
+ <br/>  
+
+## 💀 My favourite qoute 
+<h3 align="center">
+ "If you obey all the rules, you miss all the fun"   
+ <br/> 
+  
 ## 🌐 Socials: 
 <br/>
 
