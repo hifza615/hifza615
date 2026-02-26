@@ -72,13 +72,13 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 <br/>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&theme=dark&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/     api/top-langs?username=YOUR_USERNAME&theme=dark&hide_border=true&show_ico ns=true" />
 </div>
    
 <br/>
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERN   AME&theme=dark&hide_border=true" />
 </div>
 
 <br/>
