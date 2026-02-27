@@ -72,7 +72,7 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 <br/>
 
 <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/     api/top-langs?username=YOUR_USERNAME&theme=dark&hide_border=true&show_ico ns=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&theme=dark&hide_border=true&show_ico ns=true" />
 </div>
    
 <br/>
