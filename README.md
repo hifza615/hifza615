@@ -2,7 +2,7 @@
                                                                                                                                                                                                                                                                                                                                                                                                                 
 <h1 align="center">Hi  👋, I'm  Hifza Emaan</h1> 
 <h3 align="center">
-A student learning programming and web - development.      
+A student learning programming and web - development.                     
 </h3>     
 <br/>                                  
                                            
