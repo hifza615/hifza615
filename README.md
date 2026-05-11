@@ -23,9 +23,9 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 <br/>
 
 <div align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/hifza615">
   <img align="center" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white" />
-         <a href="https://www.linkedin.com/in/hifza-emaan-17a6663a4"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+         <a href="https://www.linkedin.com/in/in/hifza-emaan-3b06193b2"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 </a>
 </div>
 
