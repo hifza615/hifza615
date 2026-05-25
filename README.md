@@ -14,11 +14,7 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
  <br/>
  <br/>  
 
-## 💀 My favourite qoute 
-<h3 align="center">
- "If you obey all the rules, you miss all the fun"      
- <br/> 
-  
+
 ## 🌐 Socials: 
 <br/>
 
