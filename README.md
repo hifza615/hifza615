@@ -6,7 +6,7 @@ A student learning programming and web - development.
 </h3>                           
 <br/>                                  
                                            
-##  A Random Thing About Me😆😁 
+##  A Random Thing About Me😆
 <h3 align="center">
 A Biology student with zero intrest in biology 🤫 because full mind is  in computer🤖       
 </h3>
