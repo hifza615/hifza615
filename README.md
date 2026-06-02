@@ -43,10 +43,10 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=js,python" />
 </p>
 
-<h3> JavaScript  </h3>
+<h3> JavaScript , Pyhton  </h3>
 
 <br/>
 
@@ -55,10 +55,10 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=,react,nodejs,mongodb,angular,SQLDSA" />
 </p>
 
-<h3>Python| Frontend | Backend</h3>
+
 
 <br/>
 
