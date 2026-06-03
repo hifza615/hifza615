@@ -24,6 +24,10 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
          <a href="https://www.linkedin.com/in/in/hifza-emaan-3b06193b2"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 </a>
 </div>
+<a href="https://www.leetcode.com/Hifza-Emaan"><img align="center" src="https://img.shields.io/badge/LeetCode-%23323300.svg?logo=LeetCode&logoColor=white" alt="LeetCode"></a>
+</div>
+
+<br/>
 
 <br/>
 
