@@ -57,8 +57,8 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 
 <p align='center'>
   <img src="https://skillicons.dev/icons?i=,react,nodejs,mongodb,angular,java,expressjs,typescript" />
-</p>
-<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,supabase,materialui,jquery" />
+  <br>
+<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,supabase,jquery" />
 <br>
 
 
