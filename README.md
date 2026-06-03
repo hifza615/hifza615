@@ -32,9 +32,9 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 
 <br/>
 <p align='center'>
-<img src="https://skillicons.dev/icons?i=git,html,css,js,github" />
+<img src="https://skillicons.dev/icons?i=git,html,css,js" />
 <br>
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,github" />
   <br>
 <img src="https://skillicons.dev/icons?i=netlify,vercel"  />
   <br/>
