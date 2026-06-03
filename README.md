@@ -38,6 +38,7 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 <br>
 <img src="https://skillicons.dev/icons?i=netlify,vercel" />
 <br/>
+</p>
 ![NextAuth](https://img.shields.io/badge/nextauth-18171f.svg?style=for-the-badge&logo=nextauth&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
        
