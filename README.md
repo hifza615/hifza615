@@ -34,10 +34,11 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=git,html,css,js" />
 <br>
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,github" />
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,github,bootstrap" />
 <br>
-<img src="https://skillicons.dev/icons?i=netlify,vercel,figma,bootstrap"  />
+<img src="https://skillicons.dev/icons?i=netlify,vercel,figma" />
 <br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" width="48" height="48" />
        
 ## 💡 I am currently learning
 
