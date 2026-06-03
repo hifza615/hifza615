@@ -34,10 +34,12 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=git,html,css,js" />
 <br>
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,github,bootstrap" />
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,github,talwind" />
 <br>
-<img src="https://skillicons.dev/icons?i=netlify,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=netlify,vercel" />
 <br/>
+![NextAuth](https://img.shields.io/badge/nextauth-18171f.svg?style=for-the-badge&logo=nextauth&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
        
 ## 💡 I am currently learning
 
