@@ -35,10 +35,9 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 <img src="https://skillicons.dev/icons?i=git,html,css,js,github" />
 <br>
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+  <br>
 <img src="https://skillicons.dev/icons?i=netlify,vercel"  />
-
-
-   
+  <br/>
        
 ## 💡 I am currently learning
 
