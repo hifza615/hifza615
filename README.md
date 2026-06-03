@@ -34,7 +34,7 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=git,html,css,js" />
 <br>
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,github,talwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,github,figma" />
 <br>
 <img src="https://skillicons.dev/icons?i=netlify,vercel" />
 <br/>
