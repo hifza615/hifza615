@@ -31,7 +31,7 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 <br/>
 
 ## 💻 Tech Stack:
-                                                              
+                                                                                
 
 <br/>
 <p align='center'>
