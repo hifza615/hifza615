@@ -49,7 +49,7 @@ A Biology student with zero intrest in biology 🤫 because full mind is  in com
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python , api" />
+<img src="https://skillicons.dev/icons?i= python" />
 </p>
 
 <h3>Pyhton </h3>
