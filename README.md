@@ -4,7 +4,7 @@
                                                                                                                                                                                                                                                                                                                                                                         
 <h1 align="center">Hi  👋, I'm  Hifza Emaan</h1>     
 <h3 align="center">         
- learning programming and web - development.                     
+FRONTEND DEVOLOPER || ASPIRING MERN FULL STACK DEVOLOPER                   
 </h3>                           
 <br/>                                  
                                            
