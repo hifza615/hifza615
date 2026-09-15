@@ -9,8 +9,7 @@
 </h3>
 
 <p align="center">
-  Passionate about building web applications, learning new technologies,
-  and helping others start their journey in tech.
+  Passionate about building creative, responsive, and user-friendly web applications.
 </p>
 
 <br/>
@@ -25,16 +24,9 @@
 
 <br/>
 
-## 🚀 About Emaan Tech
-
-<h3 align="center">
-  Founder & CEO of Emaan Tech — a tech initiative focused on helping
-  aspiring developers learn, build, and grow in the world of technology.
-</h3>
+## 🌐 Socials
 
 <br/>
-
-## 🌐 Socials
 
 <div align="center">
 
@@ -56,6 +48,8 @@
 
 ## 💻 Tech Stack
 
+<br/>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,github" />
   <br/>
@@ -70,37 +64,63 @@
 
 ## 💡 I Am Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" />
-</p>
+<br/>
 
 <h3 align="center">
   Backend Development
 </h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postgresql,docker" />
+</p>
+
+<p align="center">
+  Node.js Fundamentals • Express.js • MongoDB & Mongoose
+  • Authentication & Security
+  • Multer & Email Services
+  • PostgreSQL & Sequelize
+  • Socket.IO
+  • Payment Integration
+  • Scalable Systems
+  • Docker & CI/CD
+  • Production & Cloud Deployment
+  • Node.js Optimization & Capstone
+  • Final Capstone Project
+</p>
+
 <br/>
 
 ## 🎯 Plans Of Learning
 
+<br/>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,angular,java,python" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,redis,graphql,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,redis,graphql,nginx,prisma" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=prisma,fastapi,django,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,linux,ubuntu" />
 </p>
 
 <br/>
 
 ## 📊 GitHub Stats
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hifza615&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Top Languages"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=hifza615&theme=dark&hide_border=true&show_icons=true&count_private=true"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hifza615&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=hifza615&theme=dark&hide_border=true"
+  alt="GitHub Streak Stats"
+/>
 
 </div>
 
@@ -108,8 +128,13 @@
 
 ## 🏆 GitHub Trophies
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hifza615&theme=monokai&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=hifza615&theme=monokai&no-frame=true&no-bg=true&margin-w=4"
+  alt="GitHub Trophies"
+/>
 
 </div>
