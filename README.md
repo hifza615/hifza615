@@ -1,100 +1,115 @@
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=hifza615&label=Profile%20views&color=0e75b6&style=flat" alt="hifza615" /> </p>  
-                                                                                                                                                                                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                        
-<h1 align="center">Hi  👋, I'm  Hifza Emaan</h1>     
-<h3 align="center">         
-FRONTEND DEVOLOPER || ASPIRING MERN FULL STACK DEVOLOPER                   
-</h3>                           
-<br/>                                  
-                                           
-##  A Random Thing About Me😆
-<h3 align="center">
-A Biology student with zero intrest in biology 🤫 because full mind is  in computer🤖       
-</h3>
-        
- <br/>
- <br/>  
-
-
-## 🌐 Socials: 
-<br/>
-
-<div align="center">
-<a href="https://github.com/hifza615">
-  <img align="center" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white" />
-         <a href="https://www.linkedin.com/in/in/hifza-emaan-3b06193b2"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-</a>
-<a href="https://www.leetcode.com/Hifza-Emaan"><img align="center" src="https://img.shields.io/badge/LeetCode-%23323300.svg?logo=LeetCode&logoColor=white" alt="LeetCode"></a>
-</div>
-
-<br/>
-
-<br/>
-
-## 💻 Tech Stack:
-                                                                                
-
-<br/>
-<p align='center'>
-<img src="https://skillicons.dev/icons?i=git,html,css,js" />
-<br>
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,github,figma" />
-<br>
-<img src="https://skillicons.dev/icons?i=netlify,vercel" />
-<br/>
-</p>
-
-       
-## 💡 I am currently learning
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i= python" />
+  <img src="https://komarev.com/ghpvc/?username=hifza615&label=Profile%20views&color=0e75b6&style=flat" alt="hifza615" />
 </p>
 
-<h3>Pyhton </h3>
+<h1 align="center">Hi 👋, I'm Hifza Emaan</h1>
+
+<h3 align="center">
+  Founder & CEO at Emaan Tech | Frontend Developer | Aspiring MERN Stack Developer
+</h3>
+
+<p align="center">
+  Passionate about building web applications, learning new technologies,
+  and helping others start their journey in tech.
+</p>
 
 <br/>
 
-## 🎯 Plans Of Learning:
+## 😆 A Random Thing About Me
+
+<h3 align="center">
+  A Biology student with zero interest in Biology 🤫
+  <br/>
+  Because my mind is always busy with computers 🤖💻
+</h3>
 
 <br/>
 
-<p align='center'>
-  <img src="https://skillicons.dev/icons?i=,react,nodejs,mongodb,angular,java,expressjs,typescript" />
-  <br>
-<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,supabase,jquery" />
-<br>
+## 🚀 About Emaan Tech
 
-
-<br/>
-
-## 📊 GitHub Stats:
+<h3 align="center">
+  Founder & CEO of Emaan Tech — a tech initiative focused on helping
+  aspiring developers learn, build, and grow in the world of technology.
+</h3>
 
 <br/>
+
+## 🌐 Socials
 
 <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&theme=dark&hide_border=true&show_ico ns=true" />
+
+<a href="https://github.com/hifza615">
+  <img src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/hifza-emaan-3b06193b2">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.leetcode.com/Hifza-Emaan">
+  <img src="https://img.shields.io/badge/LeetCode-%23323300.svg?logo=LeetCode&logoColor=white" alt="LeetCode">
+</a>
+
 </div>
-   
+
 <br/>
 
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,github" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,googlecloud,bootstrap,react,tailwind" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,postgresql,yarn,bun,kafka" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=chakraui" />
+</p>
+
+<br/>
+
+## 💡 I Am Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" />
+</p>
+
+<h3 align="center">
+  Backend Development
+</h3>
+
+<br/>
+
+## 🎯 Plans Of Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,angular,java,python" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,redis,graphql,nginx" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=prisma,fastapi,django,linux,ubuntu" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERN   AME&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hifza615&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hifza615&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+
 </div>
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-<br/>
+<div align="center">
 
-<div align="center"> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hifza615&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](https://github.com/hifza615)
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=hifza615&theme=monokai&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 
 </div>
-
-
