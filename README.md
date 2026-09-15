@@ -66,26 +66,12 @@
 
 <br/>
 
-<h3 align="center">
-  Backend Development
-</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postgresql,docker" />
-</p>
-
-<p align="center">
-  Node.js Fundamentals • Express.js • MongoDB & Mongoose
-  • Authentication & Security
-  • Multer & Email Services
-  • PostgreSQL & Sequelize
-  • Socket.IO
-  • Payment Integration
-  • Scalable Systems
-  • Docker & CI/CD
-  • Production & Cloud Deployment
-  • Node.js Optimization & Capstone
-  • Final Capstone Project
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgresql,docker" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=socketio" />
 </p>
 
 <br/>
