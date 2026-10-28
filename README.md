@@ -72,6 +72,8 @@
   <img src="https://skillicons.dev/icons?i=postgresql,docker" />
   <br/>
   <img src="https://skillicons.dev/icons?i=socketio" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=c++" />
 </p>
 
 <br/>
