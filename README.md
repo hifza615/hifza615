@@ -57,7 +57,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=figma,yarn,bun,kafka,postman" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=chakraui" />
+  <img src="https://skillicons.dev/icons?i=chakraui,nodejs" />
 </p>
 
 <br/>
@@ -67,7 +67,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=expressjs,mongodb" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgresql,docker" />
   <br/>
