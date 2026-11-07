@@ -55,9 +55,9 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=netlify,vercel,googlecloud,bootstrap,react,tailwind" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=figma,yarn,bun,kafka" />
+  <img src="https://skillicons.dev/icons?i=figma,yarn,bun,kafka,postman" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=chakraui,postman" />
+  <img src="https://skillicons.dev/icons?i=chakraui" />
 </p>
 
 <br/>
