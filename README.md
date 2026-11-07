@@ -57,7 +57,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=figma,yarn,bun,kafka" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=chakraui" />
+  <img src="https://skillicons.dev/icons?i=chakraui,postman" />
 </p>
 
 <br/>
