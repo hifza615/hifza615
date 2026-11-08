@@ -59,7 +59,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=npm,postman,supabase" />
 <br>
-<img src="https://skillicons.dev/icons?i=yarn,bun" />
+<img src="https://skillicons.dev/icons?i=yarn,bun,c++" />
 <br>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" width="48" height="48" />
 </p>
@@ -73,7 +73,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=expressjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgresql,docker" />
   <br/>
