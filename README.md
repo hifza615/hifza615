@@ -59,7 +59,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=npm,postman,supabase" />
 <br>
-<img src="https://skillicons.dev/icons?i=yarn,bun,c++" />
+<img src="https://skillicons.dev/icons?i=yarn,bun" />
 <br>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" width="48" height="48" />
 </p>
