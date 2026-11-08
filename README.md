@@ -73,13 +73,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,cpp" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgresql,docker" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=socketio" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c++" />
 </p>
 
 <br/>
