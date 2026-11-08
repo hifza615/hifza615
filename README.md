@@ -55,9 +55,9 @@
 <br>
 <img src="https://skillicons.dev/icons?i=netlify,vercel,googlecloud,bootstrap,react" />
 <br>
-<img src="https://skillicons.dev/icons?i=tailwind,nodejs,expressjs,figma" />
+<img src="https://skillicons.dev/icons?i=tailwind,nodejs,expressjs,figma,appwrite" />
 <br>
-<img src="https://skillicons.dev/icons?i=appwrite,npm,postman,supabase" />
+<img src="https://skillicons.dev/icons?i=npm,postman,supabase" />
 <br>
 <img src="https://skillicons.dev/icons?i=yarn,bun" />
 <br>
